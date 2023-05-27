@@ -1,0 +1,1 @@
+default-src 'none';script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com ajax.aspnetcdn.com getbootstrap.com;style-src 'self' 'unsafe-inline' fonts.googleapis.com fonts.gstatic.com;img-src 'self' data:;frame-src 'self';font-src 'self' fonts.gstatic.com;connect-src 'self';form-action 'self'
